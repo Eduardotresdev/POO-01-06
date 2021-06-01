@@ -27,7 +27,7 @@ class Gerente extends Funcionario
     }
 }
 
-class Vendedor extends Funcionario]
+class Vendedor extends Funcionario
 {
     public function calcularSalario()
     {
